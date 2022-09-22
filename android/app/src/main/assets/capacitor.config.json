@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "LetriApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
